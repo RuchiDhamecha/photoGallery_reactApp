@@ -1,3 +1,9 @@
+# This is a basic image generating react app.
+# It us made using ReactJS and API of Unsplash.com
+
+# Search anything in the search box and you will get images from unsplash 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
